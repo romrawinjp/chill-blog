@@ -1,8 +1,12 @@
-# My resume 
+# 🔍 | Romrawin Chumpu
 
 - 👋 Hi, I’m @romrawinjp
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning many code and technique of Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- My Thai name is **Romrawin Chumpu**
+- People usually call me **Jinpu** 
+
+## Current interest
+
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning many code and technique of Machine Learning in image processing field
 - 📫 How to reach me m6222040393@g.siit.tu.ac.th
 
