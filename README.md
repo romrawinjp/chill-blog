@@ -14,7 +14,7 @@
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning more about deep learning techniques, which are mostly on the way to Geometric Deep Learning.
 - 📚 I love reading books.
-- 🧬 Extra studying Human Evolution and French.
+- 🧬 Extra studying on Human Evolution and French.
 - 📈 Crypto NFT beginner [@jpxspace](https://www.instagram.com/jpxspace)
 
 ## Education
@@ -51,21 +51,21 @@ Sirindhorn International Institute of Technology, Thammasat University, Thailand
 
 ## Honors & Awards
 
-**July, 2021** - Advanced AI Certificate <br> Artificial Intelligence Association of Thailand. 
+**July, 2021** - _Advanced AI Certificate_ <br> Artificial Intelligence Association of Thailand. 
 
-**October, 2020** - Second prize project from Molecular Dynamics applied with Machine Learning <br> KMUTT Scientific Programming with Python Summer School, Faculty of Science, King Mongkut's University of Technology Thonburi, Thailand.
+**October, 2020** - _Second prize project from Molecular Dynamics applied with Machine Learning_ <br> KMUTT Scientific Programming with Python Summer School, Faculty of Science, King Mongkut's University of Technology Thonburi, Thailand.
 
-**May, 2019** - First-Class Honors in Bio-Chemical Engineering and Technology class of 2019 <br> 
+**May, 2019** - _First-Class Honors in Bio-Chemical Engineering and Technology class of 2019_ <br> 
 Sirindhorn International Institute of Technology, Thammasat University, Thailand.
 
 **August, 2019** 
-- **Champion of the Champions Award**
-- **Achievement - First Round Champion Award**
-- **'Never Too Young to Lead' Award** <br> 
+- _Champion of the Champions Award_
+- **Achievement - First Round Champion Award_
+- _'Never Too Young to Lead' Award_ <br> 
 Global Inclusive STEM+ Leadership week China and Thailand 2019. 
 
-**June, 2016** - Long-term JSTP scholarship in Mathematics. <br>
+**June, 2016** - _Long-term JSTP scholarship in Mathematics_ <br>
 Junior Science Talent Project, National Science and Technology Development Agency, Thailand.
 
-**May, 2012** - SCiUS Scholarship <br>
+**May, 2012** - _SCiUS Scholarship_ <br>
 Science Classroom in University Affiliated School project (SCiUS), Ministry of Science, Thailand.
