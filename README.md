@@ -18,10 +18,10 @@
 
 ## Education
 
-- **| 2019 - Current |**  _Master of Science in Engineering and Technology (focusing on Computer Science)_ <br> Sirindhorn International Institute of Technology, Thammasat University, Thailand.
-- **| 2016 - 2019 |**  _Bachelor of Engineering (First-Class Honors) - Bio-Chemical Engineering_ <br>
+- **2019 - Current** - _Master of Science in Engineering and Technology (focusing on Computer Science)_ <br> Sirindhorn International Institute of Technology, Thammasat University, Thailand.
+- **2016 - 2019** - _Bachelor of Engineering (First-Class Honors) - Bio-Chemical Engineering_ <br>
 Sirindhorn International Institute of Technology, Thammasat University, Thailand.
-  - **| 2018 - 2019 |**  _Exchange Student in Chemical Engineering_ <br>
+  - **2018 - 2019** - _Exchange Student in Chemical Engineering_ <br>
     University of Waterloo, ON, Canada.
 
 ## Experience
@@ -63,8 +63,8 @@ Sirindhorn International Institute of Technology, Thammasat University, Thailand
 - **'Never too young to lead' Award** <br> 
 Global Inclusive STEM+ Leadership week China and Thailand 2019. 
 
-**June 2016** - Long-term JSTP scholarship from Mathematics branch. <br>
+**June, 2016** - Long-term JSTP scholarship from Mathematics branch. <br>
 Junior Science Talent Project, National Science and Technology Development Agency, Thailand.
 
-**May 2012** - SCiUS Scholarship <br>
+**May, 2012** - SCiUS Scholarship <br>
 Science Classroom in University Affiliated School project (SCiUS), Ministry of Science, Thailand.
