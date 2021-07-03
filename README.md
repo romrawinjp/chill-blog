@@ -17,9 +17,6 @@
 
 ## Education
 
-- **2019-Current** - Master of Science in Engineering and Technology (focusing on Computer Science)
-  Sirindhorn International Institute of Technology, Thammasat University, Thailand.
-- **2016-2019** - Bachelor of Chemical Engineering (First-Class Honor) - Bio-Chemical Engineering 
-  Sirindhorn International Institute of Technology, Thammasat University, Thailand.
-  - **2018-2019** Exchange Student in Chemical Engineering 
-    University of Waterloo, ON, Canada.
+- **2019-Current** - Master of Science in Engineering and Technology (focusing on Computer Science) at _Sirindhorn International Institute of Technology, Thammasat University, Thailand._
+- **2016-2019** - Bachelor of Chemical Engineering (First-Class Honor) - Bio-Chemical Engineering at _Sirindhorn International Institute of Technology, Thammasat University, Thailand._
+  - **2018-2019** Exchange Student in Chemical Engineering at _University of Waterloo, ON, Canada._
