@@ -1,3 +1,11 @@
+```{css, echo=FALSE}
+h1, h4 {
+  text-align: center;
+  color: blue;
+  font-weight: bold;
+}
+```
+
 # 🔍 | Romrawin Chumpu
 
 - 👋 Hi, I’m @romrawinjp. Here is my github page.
