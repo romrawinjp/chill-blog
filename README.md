@@ -14,6 +14,7 @@
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning more about deep learning techniques, which are mostly on the way to Geometric Deep Learning.
 - 📚 I love reading books.
+- 🧬 Extra studying Human Evolution.
 - 📈 Crypto NFT beginner [@jpxspace](https://www.instagram.com/jpxspace)
 
 ## Education
