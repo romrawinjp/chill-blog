@@ -16,13 +16,16 @@
 
 ## Education
 
-- **2019-Current** - _Master of Science in Engineering and Technology (focusing on Computer Science)_   
+- **2019-Current** - _Master of Science in Engineering and Technology (focusing on Computer Science)_ <br>
 Sirindhorn International Institute of Technology, Thammasat University, Thailand.
-- **2016-2019** - _Bachelor of Chemical Engineering (First-Class Honor) - Bio-Chemical Engineering_     
+- **2016-2019** - _Bachelor of Chemical Engineering (First-Class Honor) - Bio-Chemical Engineering_ <br>
 Sirindhorn International Institute of Technology, Thammasat University, Thailand.
-  - **2018-2019** - _Exchange Student in Chemical Engineering_      
+  - **2018-2019** - _Exchange Student in Chemical Engineering_ <br>
     University of Waterloo, ON, Canada.
 
 ## Experience
 
-**Research Assistant**
+**Research Assistant** at Image Processing and Understanding Research Team (IPU), [NECTEC](https://www.nectec.or.th/) _(March 2021 - Present)_
+
+## Award
+
