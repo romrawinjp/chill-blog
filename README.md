@@ -60,7 +60,7 @@ Sirindhorn International Institute of Technology, Thammasat University, Thailand
 
 **August, 2019** 
 - _Champion of the Champions Award_
-- **Achievement - First Round Champion Award_
+- _Achievement - First Round Champion Award_
 - _'Never Too Young to Lead' Award_ <br> 
 Global Inclusive STEM+ Leadership week China and Thailand 2019. 
 
