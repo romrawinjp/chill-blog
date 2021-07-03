@@ -39,7 +39,7 @@ Sirindhorn International Institute of Technology, Thammasat University, Thailand
 
 ## Publication
 
-- Chumpu R, Hsu SH, Chu CL (2020). **Two-Way Coupling Computational Fluid Dynamics  with Explicit Dynamics Modeling and Simulation of Microneedle.** Conference Proceedings at International Conference in Mathematics and Applications (ICMA-MU 2020), Bangkok, Thailand. 
+- Chumpu R, Hsu SH, Chu CL (2020). **Two-Way Coupling Computational Fluid Dynamics  with Explicit Dynamics Modeling and Simulation of Microneedle.** Conference Proceedings at the International Conference in Mathematics and Applications (ICMA-MU 2020), Bangkok, Thailand. 
 - Chumpu R, Khamsemanan N, Nattee C (2019). **The association between dengue  incidences and provincial-level weather variables in Thailand from 2001 to 2014.** PLOS ONE 14(12): e0226945. https://doi.org/10.1371/journal.pone.0226945. 
 - Chumpu R, Khamsemanan N, Nattee C (2018). **Influenza Activity and Province-level  Weather Variations in Thailand, 2009 to 2014, Using Random Forest Time-series  Approach.** Chiang Mai Journal of Science, Vol. 45, No.6, 2509 – 2514. 
 
