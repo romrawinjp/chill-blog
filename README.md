@@ -25,8 +25,9 @@ Sirindhorn International Institute of Technology, Thammasat University, Thailand
 
 ## Experience
 
-**Research Assistant** <br> Image Processing and Understanding Research Team (IPU), National Electronics and Computer Technology Center ([NECTEC](https://www.nectec.or.th/)), National Science and Technology Development Agency, Thailand. <br> _(March 2021 - Present)_
+**Research Assistant**  _(March 2021 - Present)_ <br> Image Processing and Understanding Research Team (IPU), National Electronics and Computer Technology Center ([NECTEC](https://www.nectec.or.th/)), National Science and Technology Development Agency, Thailand. 
 
-**Competitor | Super AI Program** <br> Artificial Intelligence Association of Thailand ([AIAT](https://aiat.or.th/)) <br> _(September 2020 - Present)_
+**Competitor |** **Super AI Program** _(September 2020 - Present)_ <br> Artificial Intelligence Association of Thailand ([AIAT](https://aiat.or.th/)).
 
-**Summer Research Internship** <br> University of Waterloo, ON, Canada <br> _(June 2018 - August 2018)_
+**Summer Research Internship**  _(June 2018 - August 2018)_ <br> University of Waterloo, ON, Canada
+  - **Project** - Computational Fluid Dynamic (CFD) analysis of an antibiotic drug eluting on orthopedic implants simulation
