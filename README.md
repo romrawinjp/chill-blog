@@ -39,7 +39,23 @@ Sirindhorn International Institute of Technology, Thammasat University, Thailand
 
 ## Publication
 
-<a target="_blank" href="https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0226945"><img src="https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0226945" alt="Recent Article 0"> 
+```bibtex
+@article{10.1371/journal.pone.0226945,
+    doi = {10.1371/journal.pone.0226945},
+    author = {Chumpu, Romrawin AND Khamsemanan, Nirattaya AND Nattee, Cholwich},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {The association between dengue incidences and provincial-level weather variables in Thailand from 2001 to 2014},
+    year = {2019},
+    month = {12},
+    volume = {14},
+    url = {https://doi.org/10.1371/journal.pone.0226945},
+    pages = {1-27},
+    number = {12},
+}
+```
+
+
 
 
 
