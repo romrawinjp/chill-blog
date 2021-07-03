@@ -25,7 +25,7 @@ Sirindhorn International Institute of Technology, Thammasat University, Thailand
 
 ## Experience
 
-**Research Assistant** at Image Processing and Understanding Research Team (IPU), [NECTEC](https://www.nectec.or.th/) _(March 2021 - Present)_
+**Research Assistant** at Image Processing and Understanding Research Team (IPU), National Electronics and Computer Technology Center([NECTEC](https://www.nectec.or.th/)), National Science and Technology Development Agency, Thailand. <br> _(March 2021 - Present)_
 
 ## Award
 
