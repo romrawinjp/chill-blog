@@ -4,7 +4,7 @@
 - My name is **Romrawin Chumpu**.
 - People usually call me **Jinpu**.
 
-> > Stay hungry, then eat!
+>> Stay hungry, then eat!
 
 **How to reach me** 👉    
 ✉️ [Email](mailto:m6222040393@g.siit.tu.ac.th) | 📘 [LinkedIn](https://www.linkedin.com/in/romrawin-chumpu/) | 📰 [researchgate](https://www.researchgate.net/profile/Romrawin-Chumpu)
