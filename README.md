@@ -4,7 +4,11 @@
 - My Thai name is **Romrawin Chumpu**
 - People usually call me **Jinpu** 
 
-[Email](mailto:m6222040393@g.siit.tu.ac.th) / [LinkedIn](https://www.linkedin.com/in/romrawin-chumpu/)
+**How to reach me**
+
+✉️ [Email](mailto:m6222040393@g.siit.tu.ac.th)
+
+📘 [LinkedIn](https://www.linkedin.com/in/romrawin-chumpu/)
 
 ## Current interest
 
