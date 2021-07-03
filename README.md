@@ -11,6 +11,9 @@
 
 ![Romrawin's github stats](https://github-readme-stats.vercel.app/api?username=romrawinjp&show_icons=true&theme=vue-dark)
 
+[![Most use language](https://github-readme-stats.vercel.app/api/top-langs/?username=romrawinjp&layout=compact&theme=vue-dark)](https://github.com/romrawinjp/github-readme-stats)
+
+
 ## Current interests
 
 - 👀 I’m interested in Machine Learning.
