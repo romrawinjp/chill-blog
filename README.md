@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @romrawinjp. Here is my github page.
 - My name is **Romrawin Chumpu**.
-- People usually call me **Jinpu**.
+- People usually call me **Jinpu** or **Jin** in short.
 
 > Stay hungry, then eat!
 
@@ -18,10 +18,10 @@
 
 ## Education
 
-- **[2019 - Current]**  _Master of Science in Engineering and Technology (focusing on Computer Science)_ <br> Sirindhorn International Institute of Technology, Thammasat University, Thailand.
-- **[2016 - 2019]**  _Bachelor of Engineering (First-Class Honors) - Bio-Chemical Engineering_ <br>
+- **| 2019 - Current |**  _Master of Science in Engineering and Technology (focusing on Computer Science)_ <br> Sirindhorn International Institute of Technology, Thammasat University, Thailand.
+- **| 2016 - 2019 |**  _Bachelor of Engineering (First-Class Honors) - Bio-Chemical Engineering_ <br>
 Sirindhorn International Institute of Technology, Thammasat University, Thailand.
-  - **[2018 - 2019]**  _Exchange Student in Chemical Engineering_ <br>
+  - **| 2018 - 2019 |**  _Exchange Student in Chemical Engineering_ <br>
     University of Waterloo, ON, Canada.
 
 ## Experience
@@ -46,19 +46,18 @@ Sirindhorn International Institute of Technology, Thammasat University, Thailand
 ## Conference Participant 
 
 - Chumpu R, Hsu SH, Chu CL (Febuary, 2020). **Numerical Simulation of Microneedle Materials.** Presented at the 21st International Union of Materials Research Societies - International Conference in Asia (IUMRS-ICA2020), Bangkok, Thailand.
-
 - Chumpu R, Khamsemanan N, Nattee C (July, 2017). **Prediction of dengue incidences in  Thailand using a quasi-likelihood generalized linear model.** Presented at the 10th  Anniversary Conference on Nonlinear Analysis and Convex Analysis at Chitose City Cultural Center Hokkaido, Chitose, Japan. 
 
 ## Honors & Awards
 
-**July 2021** - Advanced AI Certificate <br> Artificial Intelligence Association of Thailand. 
+**July, 2021** - Advanced AI Certificate <br> Artificial Intelligence Association of Thailand. 
 
-**October 2020** - Second prize project from Molecular Dynamics applied with Machine Learning <br> KMUTT Scientific Programming with Python Summer School, Faculty of Science, King Mongkut's University of Technology Thonburi, Thailand.
+**October, 2020** - Second prize project from Molecular Dynamics applied with Machine Learning <br> KMUTT Scientific Programming with Python Summer School, Faculty of Science, King Mongkut's University of Technology Thonburi, Thailand.
 
-**May 2019** - First-Class Honors in Bio-Chemical Engineering and Technology class of 2019 <br> 
+**May, 2019** - First-Class Honors in Bio-Chemical Engineering and Technology class of 2019 <br> 
 Sirindhorn International Institute of Technology, Thammasat University, Thailand.
 
-**August 2019** 
+**August, 2019** 
 - **Champion of the Champions Award**
 - **Achievement**
 - **'Never too young to lead' Award** <br> 
