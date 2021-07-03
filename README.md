@@ -45,7 +45,7 @@ Sirindhorn International Institute of Technology, Thammasat University, Thailand
 
 ## Conference Participant 
 
-- Chumpu R, Hsu SH, Chu CL (2020). **Numerical Simulation of Microneedle Materials** Presented at the 21st International Union of Materials Research Societies - International Conference in Asia (IUMRS-ICA2020), Bangkok, Thailand.
+- Chumpu R, Hsu SH, Chu CL (2020). **Numerical Simulation of Microneedle Materials.** Presented at the 21st International Union of Materials Research Societies - International Conference in Asia (IUMRS-ICA2020), Bangkok, Thailand.
 
 - Chumpu R, Khamsemanan N, Nattee C (2017, July). **Prediction of dengue incidences in  Thailand using a quasi-likelihood generalized linear model.** Presented at the 10th  Anniversary Conference on Nonlinear Analysis and Convex Analysis at Chitose City Cultural Center Hokkaido, Chitose, Japan. 
 
