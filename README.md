@@ -4,6 +4,8 @@
 - My name is **Romrawin Chumpu**.
 - People usually call me **Jinpu**.
 
+> Stay hungry, then eat!
+
 **How to reach me** 👉    
 ✉️ [Email](mailto:m6222040393@g.siit.tu.ac.th) | 📘 [LinkedIn](https://www.linkedin.com/in/romrawin-chumpu/) | 📰 [researchgate](https://www.researchgate.net/profile/Romrawin-Chumpu)
 
@@ -25,8 +27,7 @@ Sirindhorn International Institute of Technology, Thammasat University, Thailand
 
 ## Experience
 
-**Research Assistant**  _(March 2021 - Present)_ 
-: Image Processing and Understanding Research Team (IPU), National Electronics and Computer Technology Center ([NECTEC](https://www.nectec.or.th/)), National Science and Technology Development Agency, Thailand. 
+**Research Assistant**  _(March 2021 - Present)_ <br> Image Processing and Understanding Research Team (IPU), National Electronics and Computer Technology Center ([NECTEC](https://www.nectec.or.th/)), National Science and Technology Development Agency, Thailand. 
 
 **Super AI Program** - Competitor _(September 2020 - Present)_ <br> Artificial Intelligence Association of Thailand ([AIAT](https://aiat.or.th/)).
   - An AI Engineer training program with hands-on various AI problems including Natural Language Processing, Image Processing, Data Science, Signal Processing, etc.
