@@ -18,8 +18,10 @@
 
 - **2019-Current** - Master of Science in Engineering and Technology (focusing on Computer Science)   
 Sirindhorn International Institute of Technology, Thammasat University, Thailand.
-- **2016-2019** - _Bachelor of Chemical Engineering (First-Class Honor) - Bio-Chemical Engineering_ at Sirindhorn International Institute of Technology, Thammasat University, Thailand.
-  - **2018-2019** Exchange Student in Chemical Engineering at _University of Waterloo, ON, Canada._
+- **2016-2019** - Bachelor of Chemical Engineering (First-Class Honor) - Bio-Chemical Engineering     
+Sirindhorn International Institute of Technology, Thammasat University, Thailand.
+  - **2018-2019** Exchange Student in Chemical Engineering      
+    University of Waterloo, ON, Canada.
 
 ## Experience
 
