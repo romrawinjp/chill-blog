@@ -25,7 +25,7 @@
 
 - **2019 - Current** - _Master of Science in Engineering and Technology (focusing on Computer Science)_ <br>
 Sirindhorn International Institute of Technology, Thammasat University, Thailand.
-- **2016 - 2019** - _Bachelor of Chemical Engineering (First-Class Honors) - Bio-Chemical Engineering_ <br>
+- **2016 - 2019** - _Bachelor of Engineering (First-Class Honors) - Bio-Chemical Engineering_ <br>
 Sirindhorn International Institute of Technology, Thammasat University, Thailand.
   - **2018 - 2019** - _Exchange Student in Chemical Engineering_ <br>
     University of Waterloo, ON, Canada.
