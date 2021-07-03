@@ -18,8 +18,7 @@
 
 ## Education
 
-- **[2019 - Current]**  _Master of Science in Engineering and Technology (focusing on Computer Science)_ <br>
-Sirindhorn International Institute of Technology, Thammasat University, Thailand.
+- **[2019 - Current]**  _Master of Science in Engineering and Technology (focusing on Computer Science)_ <br> Sirindhorn International Institute of Technology, Thammasat University, Thailand.
 - **[2016 - 2019]**  _Bachelor of Engineering (First-Class Honors) - Bio-Chemical Engineering_ <br>
 Sirindhorn International Institute of Technology, Thammasat University, Thailand.
   - **[2018 - 2019]**  _Exchange Student in Chemical Engineering_ <br>
@@ -32,11 +31,29 @@ Sirindhorn International Institute of Technology, Thammasat University, Thailand
 **Super AI Program** - Competitor _(September 2020 - Present)_ <br> **Advanced AI Certificate** <br> Artificial Intelligence Association of Thailand ([AIAT](https://aiat.or.th/)).
   - An AI Engineer incubator program experiencing with hands-on various AI problems including Natural Language Processing, Image Processing, Data Science, Signal Processing, etc.
 
-**Final Year Project** _(January 2019 - December 2019)_ <br> University of Waterloo, ON, Canada
+**Final Year Project** _(January 2019 - December 2019)_ <br> University of Waterloo, ON, Canada.
+  - **Project** - Simulation-based Design of Aeroponics Nutrient Distribution System Using multiple CFD.
 
-**Summer Research Internship**  _(June 2018 - August 2018)_ <br> University of Waterloo, ON, Canada
+**Summer Research Internship**  _(June 2018 - August 2018)_ <br> University of Waterloo, ON, Canada.
   - **Project** - Computational Fluid Dynamic (CFD) analysis of an antibiotic drug eluting on orthopedic implants simulation.
 
-## Awards
+## Honors & Awards
 
+**July 2021** - Advanced AI Certificate <br> Artificial Intelligence Association of Thailand. 
 
+**October 2020** - Second prize project from Molecular Dynamics applied with Machine Learning <br> KMUTT Scientific Programming with Python Summer School, King Mongkut's University of Technology Thonburi, Thailand.
+
+**May 2019** - First-Class Honors in Bio-Chemical Engineering and Technology class of 2019 <br> 
+Sirindhorn International Institute of Technology, Thammasat University, Thailand.
+
+**August 2019** 
+1. **Champion of the Champions Award**
+2. **Achievement**
+3. **'Never too young to lead' Award** <br> 
+Global Inclusive STEM+ Leadership week China and Thailand 2019. 
+
+**June 2016** - Long-term JSTP scholarship from Mathematics branch. <br>
+Junior Science Talent Project, National Science and Technology Development Agency, Thailand.
+
+**May 2012** - SCiUS Scholarship <br>
+Science Classroom in University Affiliated School project (SCiUS), the Ministry of Science, Thailand.
