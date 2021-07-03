@@ -59,11 +59,11 @@ Sirindhorn International Institute of Technology, Thammasat University, Thailand
 
 **August, 2019** 
 - **Champion of the Champions Award**
-- **Achievement**
-- **'Never too young to lead' Award** <br> 
+- **Achievement - First Round Champion Award**
+- **'Never Too Young to Lead' Award** <br> 
 Global Inclusive STEM+ Leadership week China and Thailand 2019. 
 
-**June, 2016** - Long-term JSTP scholarship from Mathematics branch. <br>
+**June, 2016** - Long-term JSTP scholarship in Mathematics. <br>
 Junior Science Talent Project, National Science and Technology Development Agency, Thailand.
 
 **May, 2012** - SCiUS Scholarship <br>
