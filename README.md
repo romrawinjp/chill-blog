@@ -9,11 +9,6 @@
 **How to reach me** 👉    
 ✉️ [Email](mailto:m6222040393@g.siit.tu.ac.th) | 📘 [LinkedIn](https://www.linkedin.com/in/romrawin-chumpu/) | 📰 [researchgate](https://www.researchgate.net/profile/Romrawin-Chumpu)
 
-![Romrawin's github stats](https://github-readme-stats.vercel.app/api?username=romrawinjp&show_icons=true&theme=default)
-
-[![Most use language](https://github-readme-stats.vercel.app/api/top-langs/?username=romrawinjp&layout=compact&theme=default)](https://github.com/romrawinjp/github-readme-stats)
-
-
 ## Current interests
 
 - 👀 I’m interested in Machine Learning.
