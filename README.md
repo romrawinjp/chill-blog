@@ -44,9 +44,10 @@ Sirindhorn International Institute of Technology, Thammasat University, Thailand
 - Chumpu R, Khamsemanan N, Nattee C (2019). **The association between dengue  incidences and provincial-level weather variables in Thailand from 2001 to 2014.** PLOS ONE 14(12): e0226945. https://doi.org/10.1371/journal.pone.0226945. 
 - Chumpu R, Khamsemanan N, Nattee C (2018). **Influenza Activity and Province-level  Weather Variations in Thailand, 2009 to 2014, Using Random Forest Time-series  Approach.** Chiang Mai Journal of Science, Vol. 45, No.6, 2509 – 2514. 
 
-## Conference Participant 
+## Conference Presentation
 
-- Chumpu R, Hsu SH, Chu CL (Febuary, 2020). **Numerical Simulation of Microneedle Materials.** Presented at the 21st International Union of Materials Research Societies - International Conference in Asia (IUMRS-ICA2020), Bangkok, Thailand.
+- Chumpu R, Hsu SH, Chu CL (Febuary, 2021). **Numerical Simulation of Microneedle Materials.** Presented at the 21st International Union of Materials Research Societies - International Conference in Asia (IUMRS-ICA2020), Bangkok, Thailand.
+- Chumpu R, Hsu SH, Chu CL (December, 2020). **Two-Way Coupling Computational Fluid Dynamics  with Explicit Dynamics Modeling and Simulation of Microneedle.** Presented at the International Conference in Mathematics and Applications (ICMA-MU 2020), Bangkok, Thailand. 
 - Chumpu R, Khamsemanan N, Nattee C (July, 2017). **Prediction of dengue incidences in  Thailand using a quasi-likelihood generalized linear model.** Presented at the 10th  Anniversary Conference on Nonlinear Analysis and Convex Analysis at Chitose City Cultural Center Hokkaido, Chitose, Japan. 
 
 ## Honors & Awards
