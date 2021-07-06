@@ -58,14 +58,14 @@ Sirindhorn International Institute of Technology, Thammasat University, Thailand
 
 **October, 2020** - _Second prize project from Molecular Dynamics applied with Machine Learning_ <br> KMUTT Scientific Programming with Python Summer School, Faculty of Science, King Mongkut's University of Technology Thonburi, Thailand.
 
-**May, 2019** - _First-Class Honors in Bio-Chemical Engineering and Technology class of 2019_ <br> 
-Sirindhorn International Institute of Technology, Thammasat University, Thailand.
-
 **August, 2019** 
 - _Champion of the Champions Award_
 - _Achievement - First Round Champion Award_
 - _'Never Too Young to Lead' Award_ <br> 
 Global Inclusive STEM+ Leadership week China and Thailand 2019. 
+
+**May, 2019** - _First-Class Honors in Bio-Chemical Engineering and Technology class of 2019_ <br> 
+Sirindhorn International Institute of Technology, Thammasat University, Thailand.
 
 **June, 2016** - _Long-term JSTP scholarship in Mathematics_ <br>
 Junior Science Talent Project, National Science and Technology Development Agency, Thailand.
