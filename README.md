@@ -1,4 +1,4 @@
-# 🔍 | Romrawin Chumpu
+# 👩‍💻 Romrawin Chumpu
 
 - 👋 Hi, I’m @romrawinjp. Here is my github page.
 - My name is **Romrawin Chumpu**.
@@ -29,10 +29,11 @@ Sirindhorn International Institute of Technology, Thammasat University, Thailand
 
 **Research Assistant**  _(March 2021 - Present)_ <br> Image Processing and Understanding Research Team (IPU), National Electronics and Computer Technology Center ([NECTEC](https://www.nectec.or.th/)), National Science and Technology Development Agency, Thailand. 
 
-**EU-ASEAN High-Performance Computing (HPC) Virtual School 2021** _(July 5, 2021 - July 9, 2021)_ <br> Attendee
 
 **Super AI Program** - Competitor _(September 2020 - Present)_ <br> **Advanced AI Certificate** <br> Artificial Intelligence Association of Thailand ([AIAT](https://aiat.or.th/)).
   - An AI Engineer incubator program experiencing with hands-on various AI problems including Natural Language Processing, Image Processing, Data Science, Signal Processing, etc.
+
+**EU-ASEAN High-Performance Computing (HPC) Virtual School 2021** _(July 5, 2021 - July 9, 2021)_ <br> Attendee 
 
 **Final Year Project** _(January 2019 - December 2019)_ <br> University of Waterloo, ON, Canada.
   - **Project** - Simulation-based Design of Aeroponics Nutrient Distribution System Using multiple CFD.
