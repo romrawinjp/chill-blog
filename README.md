@@ -13,8 +13,10 @@
 
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning more about deep learning techniques, which are mostly on the way to Geometric Deep Learning.
-- 📚 I love reading books.
-- 🧬 Extra studying on Human Evolution and French.
+- 📚 I love reading books. Currently into poetry.
+- 🅰️ I'm so glad I finished Human Evolution with an A
+- 🎢 Extra studying Abtract Algebra, Computer Graphics, Mathematical Modeling.
+- 😆 Language rank; Thai(native), English, Chinese, French, Japanese, and German.
 - 📈 Crypto NFT beginner [@jpxspace](https://www.instagram.com/jpxspace)
 
 ## Education
@@ -53,6 +55,8 @@ Sirindhorn International Institute of Technology, Thammasat University, Thailand
 - Chumpu R, Khamsemanan N, Nattee C (July, 2017). **Prediction of dengue incidences in  Thailand using a quasi-likelihood generalized linear model.** Presented at the 10th  Anniversary Conference on Nonlinear Analysis and Convex Analysis at Chitose City Cultural Center Hokkaido, Chitose, Japan. 
 
 ## Honors & Awards
+
+**October, 2021** _Oustanding Submission_ <br> Thailand Machine Learning for Chemistry Competition (TMLCC) <br> Machine learning competition: Materials properties prediction
 
 **July, 2021** - _Advanced AI Certificate_ <br> Artificial Intelligence Association of Thailand. 
 
