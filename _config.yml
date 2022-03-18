@@ -1,12 +1,11 @@
-title: Jekyll Serial Programmer
+title: Romrawin Chumpu
 markdown: kramdown
 url: ""
 baseurl: "/cv"
 
-# for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Romrawin Chumpu
+  email: romrawinc@gmail.com
 
 plugins:
   - jemoji
