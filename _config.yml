@@ -1,9 +1,9 @@
 # Site
 repository: sproogen/resume-theme
-favicon: images/icon.ico
+favicon: images/favicon.ico
 
 # Content configuration version
-version: 1
+version: 2
 
 # Personal info
 name: Romrawin Chumpu
@@ -22,10 +22,10 @@ github_username: romrawinjp
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: romrawinjp
-linkedin_username: romrawin-chumpu
+linkedin_username: romrawin
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: romrawinjp
+youtube_username: UCj93VsYAu4CYwjHHYmNotjg
 # googleplus_username: +jekyll
 orcid_username: 0000-0002-0757-6251
 
@@ -110,7 +110,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/cv/images/landscape-trees.jpg "Trees")
+      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
