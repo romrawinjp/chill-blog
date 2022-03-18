@@ -1,9 +1,3 @@
----
-noteId: "b9e97520a6e111ec998731cc50ed9ae5"
-tags: []
-
----
-
 # Jekyll Theme Serial Programmer
 
 > A Jekyll theme for serial programmers (-.-)
